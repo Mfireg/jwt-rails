@@ -12,6 +12,8 @@ gem 'devise', '~> 4.5'
 
 gem 'knock', '~> 2.1', '>= 2.1.1'
 
+gem 'rack-cors', '~> 1.0', '>= 1.0.2'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
